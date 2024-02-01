@@ -12,7 +12,7 @@ Aspiring Computer Science Undergraduate, seeking to contribute fresh perspective
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=SreeSharvesh&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 [](https://github-readme-streak-stats.herokuapp.com/?user=SreeSharvesh&theme=material-palenight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SreeSharvesh&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SreeSharvesh&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=SreeSharvesh&icon=5&color=7)](https://visitcount.itsvg.in)
 
